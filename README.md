@@ -10,3 +10,6 @@ Saya seorang **Mahasiswa Sistem Informasi** di [IIB DARMAJAYA](https://www.darma
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=royanfauzimaulana25&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+this is new scripts
+
