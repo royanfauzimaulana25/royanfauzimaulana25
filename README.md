@@ -22,8 +22,8 @@ I'm actively researching AI for Medicine like diagnosing diseases, prognosis sur
   <br>
 
 ### Education & Training
-- <a href="https://www.darmajaya.ac.id"><img align="left" alt="IIB-Darmajaya" title="IIB Darmajaya" width="25px" src="https://www.darmajaya.ac.id/wp-content/uploads/cropped-logo-darmajaya-192x192.png" />Bachelor of Computer Science (S.Kom)</a>
-- <a href="https://grow.google/intl/id_id/bangkit/?tab=machine-learning"><img align="left" alt="Bangkit" title="Bangkit Academy" width="25px" src="https://dashboard.bangkit.academy/favicon.ico" />Bangkit 2022 Graduated - Machine Learning Path</a>
+- <a href="https://www.darmajaya.ac.id"><img align="left" alt="IIB-Darmajaya" title="IIB Darmajaya" width="21px" src="https://www.darmajaya.ac.id/wp-content/uploads/cropped-logo-darmajaya-192x192.png" />Bachelor of Computer Science (S.Kom)</a>
+- <a href="https://grow.google/intl/id_id/bangkit/?tab=machine-learning"><img align="left" alt="Bangkit" title="Bangkit Academy" width="21px" src="https://dashboard.bangkit.academy/favicon.ico" />Bangkit 2022 Graduated - Machine Learning Path</a>
 
 
 ### Publication
