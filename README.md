@@ -31,6 +31,7 @@ I'm actively researching AI for Medicine like diagnosing diseases, prognosis sur
 
 ### Project
 - <a href="https://github.com/royanfauzimaulana25/brain-tumor-detection">Brain Tumor Detection</a>
+- <a href="https://github.com/royanfauzimaulana25/Kerani">Kerani (Kerabat Tani): Fast and Easy Image-Based Plant Disease Detection Application</a>
 - <a href="https://github.com/royanfauzimaulana25/bike-sharing-dashboard">Bike Sharing Dashboard</a>
 - <a href="https://github.com/royanfauzimaulana25/HR-analytics-dashboard">Human Resource Analytics Dashboard </a>
 - <a href="https://github.com/royanfauzimaulana25/sentiment-analysis">Sentiment Analysis</a>
